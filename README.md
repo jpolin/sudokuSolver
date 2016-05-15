@@ -1,6 +1,6 @@
 __ Author: __ Joe Polin
 
-** Class:** CIS ### (omitted to prevent future students from finding this on Google)
+** Class:** CIS xxx (omitted to prevent future students from finding this on Google)
 
 ** Date:** Spring 2014
 
