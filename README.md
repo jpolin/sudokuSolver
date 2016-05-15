@@ -1,4 +1,4 @@
-__ Author: __ Joe Polin
+** Author: ** Joe Polin
 
 ** Class:** CIS xxx (omitted to prevent future students from finding this on Google)
 
@@ -6,7 +6,7 @@ __ Author: __ Joe Polin
 
 ** Description:** Sudoku solver written for Artificial Intelligence class.
 
-# Usage 
+## Usage 
 
 From command line, run
 
@@ -18,7 +18,7 @@ where file_name contains 9 rows of 9 characters laying out the board. Refer to e
 
 You can change the format of the printed board by changing the **pretty** flag in the main method.
 
-# High level approach
+## High level approach
 
 Every cell has 9 a domain of 9 possible values. Our goal is to reduce that domain to exactly 1 value for every cell. The function processOfElimination recursively examines the board, removing values in a domain that cannot be true because of a certain value in the same row/column/sub-grid. It also calls the AC3 function which uses the AC3 algorithm (https://en.wikipedia.org/wiki/AC-3_algorithm) to make more difficult deductions. 
 
