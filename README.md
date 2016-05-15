@@ -1,4 +1,4 @@
-** Author: ** Joe Polin
+**Author:** Joe Polin
 
 ** Class:** CIS xxx (omitted to prevent future students from finding this on Google)
 
