@@ -1,6 +1,9 @@
-** Author:** Joe Polin
+__ Author: __ Joe Polin
+
 ** Class:** CIS ### (omitted to prevent future students from finding this on Google)
+
 ** Date:** Spring 2014
+
 ** Description:** Sudoku solver written for Artificial Intelligence class.
 
 # Usage 
